@@ -1,3 +1,3 @@
 ## JAVASCRIPT ASSINGMENT-2
 
-link:
+link: https://easha12345.github.io/javascript/
